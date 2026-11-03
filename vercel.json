@@ -1,8 +1,9 @@
 {
+  "trailingSlash": false,
   "redirects": [
     {
       "source": "/",
-      "destination": "/app/",
+      "destination": "/app",
       "permanent": false
     }
   ],
